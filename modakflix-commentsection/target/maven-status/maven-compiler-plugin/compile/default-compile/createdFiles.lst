@@ -1,0 +1,7 @@
+com/modakdev/modakflix_commentsection/CORS/WebConfig.class
+com/modakdev/modakflix_commentsection/Collections/Comment.class
+com/modakdev/modakflix_commentsection/Service/CommentService.class
+com/modakdev/modakflix_commentsection/Repository/CommentRepository.class
+com/modakdev/modakflix_commentsection/ModakflixCommentsectionApplication.class
+com/modakdev/modakflix_commentsection/Controller/CommentController.class
+com/modakdev/modakflix_commentsection/Collections/Reply.class

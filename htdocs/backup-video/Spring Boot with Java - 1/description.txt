@@ -1,0 +1,11 @@
+Summary:
+
+Spring Boot with Java - 1 is an easy-to-use framework for building production-ready applications. It simplifies the development of Java-based backend services with built-in configurations, dependency injection, and a powerful ecosystem for web development, making it suitable for microservices and large-scale applications.
+
+Rating: 8.9/10
+
+Crews of Movies:
+
+Developed by: Josh Long, Phil Webb
+Key Contributors: Sam Brannen, Stephane Nicoll
+Main Contributors: Michael Hall, Kevin Marks, Tom White

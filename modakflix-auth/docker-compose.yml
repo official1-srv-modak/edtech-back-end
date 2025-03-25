@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  modakflix-auth:
+    image: modakflix-auth:1.1.1-SNAPSHOT  # Specify the custom image or use the locally built one
+    build:
+      context: .  # Path to your project
+      dockerfile: Dockerfile  # Path to your Dockerfile for the Spring Boot app
+    ports:
+      - "8081:8081"  # Exposing the Spring Boot service port
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/modak_flix
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: "root"
+      SPRING_REDIS_HOST: redis
+      SPRING_REDIS_PORT: 6379
+      JWT_USER_SECRET: aihbcajdncoajnojdnolsjahdbiayfdihbkhaiydvichbkhbkahjbicyiadhbkahbkhcbahbievcakjnljnsdhvsevbihbeicsabieyvcihcibh
+      JWT_SERVER_USER_SECRET: a3c5c99c7633ef5b7b68cb192b30044bb833f59c9fd0d8510ae3a8ab4d59b72e957274c51709147e86f9d8fb40ee40be4fb80482fa1e04df5c90990486fb7a2c7df69f26ca91dac7832079f6990962eea615662aea1af1793800f6b764f487f16c8b7e39b0affe6965a03b828d6e0b7416e5dec5a8579adb427ced01f7f335c76f58a1bd83f9e6040095012fdde17f67c484cceca2e6c2a67bb8572029fd4321bf16553812085a0fea3d9ddcb672afe760722b7c3408d4f5a66ba1fac0d2d323506f44d5711f3835c93b2269bbdf2c14a5d54caa6b05944ea3fa09efb776284c9fb7be833223c918570db77b259d9217c8964ff3286d3cb97c1e12e29a664ad5
+      JWT_USER_EXPIRATION_MS: 3600000
+      JWT_SERVER_USER_EXPIRATION_MS: 7776000000
+
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: modak_flix
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql  # Correct volume mapping for init script
+    restart: always
+
+
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    restart: always
+
+volumes:
+  mysql-data:
+    driver: local

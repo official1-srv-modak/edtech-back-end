@@ -1,0 +1,13 @@
+Summary:
+
+
+Machine Learning - 3 dives into advanced machine learning topics, including deep learning, neural networks, reinforcement learning, and natural language processing. It covers state-of-the-art algorithms and techniques for building highly sophisticated models that can handle large datasets and complex tasks, making it ideal for experienced practitioners.
+
+Rating: 9.3/10
+
+Crews of Movies:
+
+
+Developed by: Andrew Ng, Ian Goodfellow
+Key Contributors: Yoshua Bengio, Geoffrey Hinton
+Main Contributors: Yann LeCun, Michael Jordan, Daphne Koller

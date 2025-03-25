@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Video Streaming</title>
+    <link href="https://vjs.zencdn.net/7.15.4/video-js.css" rel="stylesheet"/>
+    <script src="https://vjs.zencdn.net/7.15.4/video.min.js"></script>
+</head>
+<body>
+
+    <h1>HLS Video Streaming with Video.js</h1>
+    <video
+        id="videoPlayer"
+        class="video-js"
+        controls
+        preload="auto"
+        width="640"
+        height="360"
+        data-setup='{}'>
+        <source src="http://localhost:1234/modakflix-stream/stream/720" type="application/x-mpegURL">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <script>
+        var player = videojs('videoPlayer');
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/ModakflixServerManagementApplication.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/EbookController.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/ManagementController.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/service/EbookService.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/service/FileSystemService.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/service/impl/EbookServiceImpl.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/api/service/impl/FileSystemServiceImpl.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/config/CorsOriginConfig.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/config/ModakFlixConfigurations.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-server-management/src/main/java/com/modakdev/modakflix_server_management/config/ModakFlixWebSecurity.java

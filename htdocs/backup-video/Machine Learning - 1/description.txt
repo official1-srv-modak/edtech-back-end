@@ -1,0 +1,13 @@
+Summary:
+
+
+Machine Learning - 1 introduces the core concepts of machine learning, covering supervised and unsupervised learning techniques, as well as essential algorithms like linear regression, decision trees, and k-means clustering. It provides a foundation for those looking to understand the principles behind predictive modeling and data analysis.
+
+Rating: 8.6/10
+
+Crews of Movies:
+
+
+Developed by: Andrew Ng, Ian Goodfellow
+Key Contributors: Yoshua Bengio, Geoffrey Hinton
+Main Contributors: Yann LeCun, Michael Jordan, Daphne Koller

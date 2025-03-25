@@ -1,0 +1,14 @@
+com/modakdev/modakflix_auth/config/ModakFlixConfigurations.class
+com/modakdev/modakflix_auth/api/service/ModakFlixServerAuthService.class
+com/modakdev/modakflix_auth/config/ModakFlixWebSecurity.class
+com/modakdev/modakflix_auth/ModakFlixAccessDeniedHandler.class
+com/modakdev/modakflix_auth/api/controllers/PageController.class
+com/modakdev/modakflix_auth/api/controllers/AdminController.class
+com/modakdev/modakflix_auth/api/service/impl/ModakFlixAuthServiceImpl.class
+com/modakdev/modakflix_auth/filters/JwtAuthenticationFilter.class
+com/modakdev/modakflix_auth/api/controllers/UserController.class
+com/modakdev/modakflix_auth/ModakFlixAuthenticationEntryPoint.class
+com/modakdev/modakflix_auth/api/service/impl/ModakFlixServerAuthServiceImpl.class
+com/modakdev/modakflix_auth/ModakflixAuthApplication.class
+com/modakdev/modakflix_auth/api/service/ModakFlixAuthService.class
+com/modakdev/modakflix_auth/config/CorsOriginConfig.class

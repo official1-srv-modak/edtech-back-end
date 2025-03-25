@@ -1,0 +1,10 @@
+com/modakdev/modakflix_server_management/api/EbookController.class
+com/modakdev/modakflix_server_management/ModakflixServerManagementApplication.class
+com/modakdev/modakflix_server_management/api/service/impl/EbookServiceImpl.class
+com/modakdev/modakflix_server_management/config/CorsOriginConfig.class
+com/modakdev/modakflix_server_management/api/ManagementController.class
+com/modakdev/modakflix_server_management/api/service/EbookService.class
+com/modakdev/modakflix_server_management/api/service/FileSystemService.class
+com/modakdev/modakflix_server_management/config/ModakFlixConfigurations.class
+com/modakdev/modakflix_server_management/config/ModakFlixWebSecurity.class
+com/modakdev/modakflix_server_management/api/service/impl/FileSystemServiceImpl.class

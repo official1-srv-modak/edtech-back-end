@@ -1,0 +1,11 @@
+Summary:
+
+Rest API 2 is a robust service designed to handle various functionalities such as retrieving data, updating records, and providing efficient integration with other systems. It supports RESTful architecture, allowing seamless communication between the client and server.
+
+IMDB Rating: 8.2/10
+
+Crews of Movies:
+
+Developed by: John Doe, Jane Smith
+Key Contributors: Jack Taylor, Emily Brown
+Main Contributors: Alex Johnson, Sarah Lee, Mark Davis

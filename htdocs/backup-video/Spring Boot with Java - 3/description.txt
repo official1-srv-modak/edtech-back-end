@@ -1,0 +1,11 @@
+Summary:
+
+Spring Boot with Java - 3 is a powerful extension of the Spring Boot framework, focused on providing enhanced tools for building robust, cloud-native applications. With its support for advanced data management, automated testing, and seamless integration with cloud platforms, it is perfect for building highly available and secure services.
+
+Rating: 9.5/10
+
+Crews of Movies:
+
+Developed by: Josh Long, Phil Webb
+Key Contributors: Sam Brannen, Stephane Nicoll
+Main Contributors: Michael Hall, Kevin Marks, Tom White

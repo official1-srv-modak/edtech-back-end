@@ -1,0 +1,11 @@
+Summary:
+
+Rest API 1 offers enhanced performance and scalability for enterprise applications. It is optimized for handling large datasets, providing quick responses and error handling, and is designed with security in mind to protect sensitive data.
+
+IMDB Rating: 8.5/10
+
+Crews of Movies:
+
+Developed by: Michael Green, Laura Adams
+Key Contributors: David White, Susan Carter
+Main Contributors: Kevin Black, Rachel Fox, Thomas Garcia

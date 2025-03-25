@@ -1,0 +1,14 @@
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/ModakFlixAccessDeniedHandler.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/ModakFlixAuthenticationEntryPoint.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/ModakflixAuthApplication.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/controllers/AdminController.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/controllers/PageController.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/controllers/UserController.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/service/ModakFlixAuthService.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/service/ModakFlixServerAuthService.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/service/impl/ModakFlixAuthServiceImpl.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/api/service/impl/ModakFlixServerAuthServiceImpl.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/config/CorsOriginConfig.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/config/ModakFlixConfigurations.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/config/ModakFlixWebSecurity.java
+/Users/souravmodak/projects/ModakFlix-Project/modakflix-auth/src/main/java/com/modakdev/modakflix_auth/filters/JwtAuthenticationFilter.java
